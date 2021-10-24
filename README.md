@@ -1,14 +1,5 @@
-<img src="https://lh6.googleusercontent.com/yvpwKTRHijtvPOrKDdnnzk6g0Xq8yvrf5waP1a93h0YXpnltSqfnn8z20_BGBmYiEQ-ZK4sUi4pxBhGW0_wz=w1280-h880-rw" width="640" height="480"></img>
-
-> Sistema de gerenciamento de lojas, o principal objetivo é retirar pedidos e fazer o controle de estoque e cadastro de clientes, usando um servidor Spring Boot como back, e no front usar react js para a aplicação web e o react native com expo para versão mobile.
-
-### Ajustes e melhorias
-
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
-- [ ] Cadastro de cliente
-- [ ] Cadastro de produto
-- [ ] Cadastro de pedidos
+#ACUMULADO
+<img src="https://lh6.googleusercontent.com/yvpwKTRHijtvPOrKDdnnzk6g0Xq8yvrf5waP1a93h0YXpnltSqfnn8z20_BGBmYiEQ-ZK4sUi4pxBhGW0_wz=w1280-h880-rw"></img>
 
 ## 🚂 Versões 🚂
 
@@ -20,49 +11,6 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 ### ⚠️IMPORTANTE⚠️
 ##### É importante seguir todas as versões sugeridas, não foram feitos testes com versões diferentes das sugeridas, principalmente com versões do java e do banco de dados
-               
-## 🚀 Instalando Community
-
-Para instalar o Community, siga estas etapas:
-
-Linux, macOS e Windows:
-
-Para instalar as dependencias do node (as dependencias devem ser rodadas na raiz de cada aplicação ./community/mobile e ./community/web)
-```
-<npm -i>
-```
-
-Para compilar as classes java - 
-     acesse a pasta servidor e entre no pacote br.com.community
-```
-<javac Aplication.java>
-```
-
-## ☕ Usando Community
-
-acesse a pasta servidor e entre no pacote br.com.community e rode:
-```
-<java Aplication>
-```
-ou
-
-execute a classe aplication usando o NetBeans
-
-Para rodar a versão web entre na raiz em ./community/web e rode:
-```
-<npm start>
-```
-
-Para rodar a versão mobile entre na raiz do mobile em ./community/mobile e rode:
-```
-<expo start>
-```
-⚠️LOGIN PADRÃO PARA TESTE SEM O SERVIDOR: 
-
-LOGIN: adm
-SENHA: adm
-
-## 🤝 Colaboradores
 
 <table>
   <tr>
