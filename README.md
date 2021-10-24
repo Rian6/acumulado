@@ -1,4 +1,4 @@
-<iframe src="https://drive.google.com/file/d/1D3fMNjFxYRKs9BMwmgypPAPeEC4ZIVmT/preview" width="640" height="480" allow="autoplay"></iframe>
+<img src="https://lh6.googleusercontent.com/yvpwKTRHijtvPOrKDdnnzk6g0Xq8yvrf5waP1a93h0YXpnltSqfnn8z20_BGBmYiEQ-ZK4sUi4pxBhGW0_wz=w1280-h880-rw" width="640" height="480"></img>
 
 > Sistema de gerenciamento de lojas, o principal objetivo é retirar pedidos e fazer o controle de estoque e cadastro de clientes, usando um servidor Spring Boot como back, e no front usar react js para a aplicação web e o react native com expo para versão mobile.
 
