@@ -20,7 +20,7 @@ Teste o aplicativo
 ```bash
 # Clone o projeto
 
-$ git clone https://github.com/benmacario/sheets-xlsx-RN.git
+$ git clone https://github.com/Rian6/acumulado.git
 
 # Entre na pasta do projeto
 
