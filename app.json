@@ -1,0 +1,19 @@
+{
+  "name": "Acumulado",
+  "displayName": "Acumulado",
+  "expo": {
+    "name": "Acumulado",
+    "slug": "Acumulado",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "icon": "./icone.png",
+    "splash": {
+      "image": "./splash.png"
+    },
+    "android": {
+      "package": "Acumulado.rian"
+    }
+  }
+}
