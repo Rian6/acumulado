@@ -1,18 +1,9 @@
-#ACUMULADO
 
 <img src="https://lh6.googleusercontent.com/yvpwKTRHijtvPOrKDdnnzk6g0Xq8yvrf5waP1a93h0YXpnltSqfnn8z20_BGBmYiEQ-ZK4sUi4pxBhGW0_wz=w1280-h880-rw" width="200" height="400"></img>
 <img src="https://lh5.googleusercontent.com/iNVrcwkIHVgxVB8wUIfCzyunKraBAmxoeNvWVuvZy72NmtSZR2izjb4-Hd51tlZS7kxEox26cHq5zt9nT6Vd=w1280-h880-rw" width="200" height="400"></img>
 
-## 🚂 Versões 🚂
-
-##### `<JDK / V1.8.0_181>`
-##### `<NODE / v12.19.0>`
-##### `<POSTGRESQL / v9.5.24>`
-##### `<REACT JS / 17.0.2>`
-##### `<EXPO-CLI / 4.5.0>`
-
-### ⚠️IMPORTANTE⚠️
-##### É importante seguir todas as versões sugeridas, não foram feitos testes com versões diferentes das sugeridas, principalmente com versões do java e do banco de dados
+### 🌺ACUMULADO🌺
+##### Projeto desenvolvido usando react native para importação de planilhas de ruas da operadora oi usando um app mobile.
 
 <table>
   <tr>
