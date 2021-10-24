@@ -1,8 +1,8 @@
 ## 🌺ACUMULADO🌺
-
+<h1 align="center">
 <img src="https://lh6.googleusercontent.com/yvpwKTRHijtvPOrKDdnnzk6g0Xq8yvrf5waP1a93h0YXpnltSqfnn8z20_BGBmYiEQ-ZK4sUi4pxBhGW0_wz=w1280-h880-rw" width="200" height="400"></img>
 <img src="https://lh5.googleusercontent.com/iNVrcwkIHVgxVB8wUIfCzyunKraBAmxoeNvWVuvZy72NmtSZR2izjb4-Hd51tlZS7kxEox26cHq5zt9nT6Vd=w1280-h880-rw" width="200" height="400"></img>
-
+</h1>
 
 ### Objetivo
 
