@@ -1,9 +1,45 @@
+## 🌺ACUMULADO🌺
 
 <img src="https://lh6.googleusercontent.com/yvpwKTRHijtvPOrKDdnnzk6g0Xq8yvrf5waP1a93h0YXpnltSqfnn8z20_BGBmYiEQ-ZK4sUi4pxBhGW0_wz=w1280-h880-rw" width="200" height="400"></img>
 <img src="https://lh5.googleusercontent.com/iNVrcwkIHVgxVB8wUIfCzyunKraBAmxoeNvWVuvZy72NmtSZR2izjb4-Hd51tlZS7kxEox26cHq5zt9nT6Vd=w1280-h880-rw" width="200" height="400"></img>
 
-### 🌺ACUMULADO🌺
+
+### Objetivo
+
 ##### Projeto desenvolvido usando react native para importação de planilhas de ruas da operadora oi usando um app mobile.
+
+### Como usar?
+
+Dependencias:
+
+- [Node JS](https://nodejs.org/)
+- [Expo](https://expo.io/)
+
+Teste o aplicativo
+
+```bash
+# Clone o projeto
+
+$ git clone https://github.com/benmacario/sheets-xlsx-RN.git
+
+# Entre na pasta do projeto
+
+$ cd acumulado
+
+# Instale as dependências
+
+$ npm i
+
+# Rode o app
+
+$ expo start
+```
+
+### Referências
+
+- [Document-Picker-Expo](https://docs.expo.io/versions/latest/sdk/document-picker/)
+- [File-System-Expo](https://docs.expo.io/versions/latest/sdk/filesystem/)
+- [XLSX](https://www.npmjs.com/package/xlsx)
 
 <table>
   <tr>
